@@ -1,7 +1,5 @@
 # Shamil Magomedov
 ## Web Developer
-### Preview:
-[vipdeveloper.ru](https://vipdeveloper.ru)
 
 **На борту сборки:**
 * ES6 импорт плагинов
